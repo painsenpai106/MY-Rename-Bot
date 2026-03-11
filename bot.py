@@ -163,9 +163,6 @@ if __name__ == "__main__":
         asyncio.run(asyncio.sleep(ft.value))
         print("Now Ready For Deploying!")
         main()
-
- pyrogram.utils.MIN_CHAT_ID = -999999999999
-pyrogram.utils.MIN_CHANNEL_ID = -100999999999999
         
 
 # Rkn Developer 
